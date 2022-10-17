@@ -1,3 +1,5 @@
+// 3. Core i 7 HP laptop price is 76000 tk and cash payment discount 10%. What will be the purchase price?
+
 package string_manipulation;
 
 public class HPLaptopDiscount {

@@ -1,3 +1,7 @@
+// 8. Write a program to convert each 1st char to uppercase from a string
+// Input: rahim lives in sylhet
+// Output: Rahim Lives in Sylhet
+
 package string_manipulation;
 
 import java.util.Scanner;

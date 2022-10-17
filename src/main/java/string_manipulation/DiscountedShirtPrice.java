@@ -1,3 +1,5 @@
+// 2. Price of a formal shirt is 1200 tk and Sharee is 3500 tk. If you buy 2 shirt and 1 sharee, then 400 tk will be discounted. After your purchase what will be your total cost?
+
 package string_manipulation;
 
 public class DiscountedShirtPrice {

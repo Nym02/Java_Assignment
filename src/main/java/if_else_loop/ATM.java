@@ -1,3 +1,5 @@
+// 4. Write a program to check balance and withdraw money from ATM booth using if else or switch case
+
 package if_else_loop;
 
 import java.util.Scanner;
